@@ -1,1 +1,1 @@
-ALX is good
+hello ubuntu
